@@ -1,4 +1,4 @@
-# Foobar
+# ToneGenerator
 
 This project is a simple implementation of a tonegenerator which plays a tone given a frequency and a duration
 
